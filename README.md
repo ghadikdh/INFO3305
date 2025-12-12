@@ -10,10 +10,7 @@
 IIUM Sejahtera Clinic is the go-to place for every student of International Islamic University Malaysia (IIUM). They exist in every branch of the aforementioned institution and are well-equipped to cater to their target demographic, often placed within the campus itself. That being said, the establishment lacks a proper system to manage appointments. This has led to the clinics constantly being overwhelmed, and students who need to be tended to are not getting the care that they need.
 
 In hopes of increasing efficiency and proactivity, our team has decided to create an appointment manager app for IIUM Sejahtera Clinic. This app will be utilised for patrons to book their meeting with the health practitioner at the branch closest to them in advance, at any time, from anywhere.
-\
-\
-\
-\
+
 
 
 ## 1.2 PROJECT OBJECTIVE
