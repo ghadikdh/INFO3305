@@ -10,11 +10,9 @@
 
 <p align="center"><b>GROUP PROPOSAL AND MOCKUP</b></p>
 
-
-
-
-
 <p align="center"><b>PROPOSAL FOR PROJECT DEVELOPMENT</b></p>
+
+<p align="center"><b>GROUP MEMBERS:</b></p>
 
 ## 1.1 INTRODUCTION
 
