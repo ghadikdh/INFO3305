@@ -1,4 +1,4 @@
-# INFO3305
+
 <p align="center"><b>KULLIYYAH OF INFORMATION AND COMMUNICATION TECHNOLOGY</b></p>
 
 <p align="center"><b>INFO 3305</b></p>
