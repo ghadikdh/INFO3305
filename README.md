@@ -14,6 +14,7 @@
 <p align="center"><b>GROUP MEMBERS:</b></p>
 <p align="center"><b>1.GHADI BINTI MOHAMAD (2227380)</b></p>
 <p align="center"><b>2.NUHA ILYANEE BINTI ROSLAN (2318178)</b></p>
+
 ## 1.1 INTRODUCTION
 
 IIUM Sejahtera Clinic is the go-to place for every student of International Islamic University Malaysia (IIUM). They exist in every branch of the aforementioned institution and are well-equipped to cater to their target demographic, often placed within the campus itself. That being said, the establishment lacks a proper system to manage appointments. This has led to the clinics constantly being overwhelmed, and students who need to be tended to are not getting the care that they need.
