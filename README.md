@@ -1,4 +1,15 @@
 # INFO3305
+<p align="center"><b>KULLIYYAH OF INFORMATION AND COMMUNICATION TECHNOLOGY</b></p>
+
+<p align="center"><b>INFO 3305</b></p>
+<p align="center"><b>WEB APPLICATION DEVELOPMENT</b></p>
+
+
+<p align="center"><b>SECTION 2</b></p>
+<p align="center"><b>SEMESTER 1, 2025/2026</b></p>
+
+<p align="center"><b>GROUP PROPOSAL AND MOCKUP</b></p>
+
 
 
 
