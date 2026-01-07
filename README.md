@@ -100,15 +100,22 @@ The system follows the Client–Server Architecture using Laravel’s MVC framew
 Handles database interactions
 #### List of models used:
 - User
+- ClinicType
+- Branch
+- Booking
 
 ### 4.2 View
 Blade templates for UI display
 #### List of views made:
 - homepage.blade.php
 - dashboard.blade.php
+- booking_details.blade.php
+- booking.success.blade.php
+- booking.blade.php
 
 ##### Auth folder
 - login.blade.php
+- register.blade.php
 
 ##### Booking folder
 - history.blade.php
