@@ -98,20 +98,20 @@ This project was able to cover:
 The system follows the Client–Server Architecture using Laravel’s MVC framework:
 ### 4.1 Model
 Handles database interactions
-####List of models used:
+#### List of models used:
 - User
 
 ### 4.2 View
 Blade templates for UI display
-####List of views made:
+#### List of views made:
 - login.blade.php
 - homepage.blade.php
 - dashboard.blade.php
 
-#####Booking folder
+##### Booking folder
 - history.blade.php
 
-#####Profile folder
+##### Profile folder
 - show.blade.php
 - edit.blade.php
 - update.blade.php
