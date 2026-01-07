@@ -67,7 +67,7 @@ This module guides the user through a step-by-step appointment booking process:
 <p align="center"><b>SEMESTER 1, 2025/2026</b></p>
 
 
-<p align="center"><b>PROPOSAL FOR PROJECT DEVELOPMENT</b></p>
+<p align="center"><b>FINAL REPORT</b></p>
 
 <p align="center"><b>GROUP MEMBERS:</b></p>
 <p align="center"><b>1. GHADI BINTI MOHAMAD (2227380)</b></p>
