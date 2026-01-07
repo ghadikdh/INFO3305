@@ -28,7 +28,7 @@ In hopes of increasing efficiency and proactivity, our team has decided to creat
 We aim to create an app that will make doctor trips less of a hassle by easing the appointment-making process. This is made so by the system within the app, which will automatically arrange it so that the patient is well-matched to the practitioner most suited for their entered concerns and is able to see them at a time most convenient to both parties, using the data from their preferred time and date. We will be able to determine whether the app has truly helped with the existing problem by making a record of appointments that are made and completed, as well as how much waiting time has been reduced, according to the system at the clinics themselves.
 
 
-## 1.3 Features and Functionality
+## 1.3 FEATURES AND FUNCTIONALITY
   This website provides an organized platform that will help users to book clinic appointments efficiently.The features and functionalities of the website are as stated below.
 ### 1.3.1 Home Page
  - Where users can login/register through provided button on the website to have access to the clinic   booking appointment system
@@ -48,6 +48,32 @@ This module guides the user through a step-by-step appointment booking process:
 - Include details such as appointment date,service, clinic branch and status
 ### 1.3.5 Profile Page
 - Enable user to manage their personal information such as name,phone number and email
+
+
+---
+
+
+
+<p align="center"><b>KULLIYYAH OF INFORMATION AND COMMUNICATION TECHNOLOGY</b></p>
+
+<p align="center"><b>INFO 3305</b></p>
+<p align="center"><b>WEB APPLICATION DEVELOPMENT</b></p>
+
+
+<p align="center"><b>SECTION 2</b></p>
+<p align="center"><b>SEMESTER 1, 2025/2026</b></p>
+
+
+<p align="center"><b>PROPOSAL FOR PROJECT DEVELOPMENT</b></p>
+
+<p align="center"><b>GROUP MEMBERS:</b></p>
+<p align="center"><b>1.GHADI BINTI MOHAMAD (2227380)</b></p>
+<p align="center"><b>2.NUHA ILYANEE BINTI ROSLAN (2318178)</b></p>
+
+
+
+
+
 
 
   
