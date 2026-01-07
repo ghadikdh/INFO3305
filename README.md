@@ -104,9 +104,11 @@ Handles database interactions
 ### 4.2 View
 Blade templates for UI display
 #### List of views made:
-- login.blade.php
 - homepage.blade.php
 - dashboard.blade.php
+
+##### Auth folder
+- login.blade.php
 
 ##### Booking folder
 - history.blade.php
