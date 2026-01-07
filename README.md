@@ -12,8 +12,11 @@
 <p align="center"><b>PROPOSAL FOR PROJECT DEVELOPMENT</b></p>
 
 <p align="center"><b>GROUP MEMBERS:</b></p>
-<p align="center"><b>1.GHADI BINTI MOHAMAD (2227380)</b></p>
-<p align="center"><b>2.NUHA ILYANEE BINTI ROSLAN (2318178)</b></p>
+<p align="center"><b>1. GHADI BINTI MOHAMAD (2227380)</b></p>
+<p align="center"><b>2. NUHA ILYANEE BINTI ROSLAN (2318178)</b></p>
+<p align="center"><b>3. NUR ATHIRAH IZZAH BINTI AZIZAN (2312652)</b></p>
+<p align="center"><b>4. IRSYAD FAHMI BIN MISWAN (2318837)</b></p>
+<p align="center"><b>5. NUR ALYAA IZYAN BINTI BASRI (2311160)</b></p>
 
 ## 1.1 INTRODUCTION
 
@@ -67,8 +70,11 @@ This module guides the user through a step-by-step appointment booking process:
 <p align="center"><b>PROPOSAL FOR PROJECT DEVELOPMENT</b></p>
 
 <p align="center"><b>GROUP MEMBERS:</b></p>
-<p align="center"><b>1.GHADI BINTI MOHAMAD (2227380)</b></p>
-<p align="center"><b>2.NUHA ILYANEE BINTI ROSLAN (2318178)</b></p>
+<p align="center"><b>1. GHADI BINTI MOHAMAD (2227380)</b></p>
+<p align="center"><b>2. NUHA ILYANEE BINTI ROSLAN (2318178)</b></p>
+<p align="center"><b>3. NUR ATHIRAH IZZAH BINTI AZIZAN (2312652)</b></p>
+<p align="center"><b>4. IRSYAD FAHMI BIN MISWAN (2318837)</b></p>
+<p align="center"><b>5. NUR ALYAA IZYAN BINTI BASRI (2311160)</b></p>
 
 
 ## 1.0 ABSTRACT
@@ -90,9 +96,22 @@ This project was able to cover:
 
 ## 4.0 SYSTEM ARCHITECTURE
 The system follows the Client–Server Architecture using Laravel’s MVC framework:
-- Model: Handles database interactions
-- View: Blade templates for UI display
-- Controller: Manages business logic and data flow
+### 4.1 Model
+Handles database interactions
+List of models used:
+- User
+
+### 4.2 View
+Blade templates for UI display
+List of views made:
+-
+
+## 4.3 Controller
+Manages business logic and data flow
+List of controllers used:
+- 
+
+
 This architecture ensures separation of concerns and easier maintenance.
 
 ## 5.0 SYSTEM IMPLEMENTATION
